@@ -1,0 +1,14 @@
+{
+ "to":"eLHACumxxJ0:APA91bG2rbTNeZCaRvybW6CHlYbg_nAYmCs2qXdgNJktuJLwI7km0WV2XJJw771BgMMKjkAO3Q_6beMA2ao3tLqJF0xp2mdqe-REZh8KD0Xc5Shkw3mGMAGjtLbsaLm1gOB162UKjZHi",
+ "collapse_key" : "type_a",
+ "notification" : {
+     "body" : "Ashwin shared a goal with you",
+     "title": "Collapsing A"
+ },
+ "data" : {
+     "body" : "Ashwin shared a goal with you",
+     "title": "Collapsing A",
+     "key_1" : "Data for key one",
+     "key_2" : "Hellowww"
+ }
+}
